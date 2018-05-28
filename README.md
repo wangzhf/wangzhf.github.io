@@ -1,1 +1,1 @@
-Article urls.
+Editor configs.
