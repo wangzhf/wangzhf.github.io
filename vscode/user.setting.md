@@ -12,9 +12,13 @@
     "workbench.statusBar.feedback.visible": false,
     "window.openFoldersInNewWindow": "on",
     "explorer.confirmDelete": false, 
-    "view-in-browser.customBrowser": "mozilla",
-    "terminal.integrated.shell.windows": "C:\\windows\\System32\\cmd.exe",
-    "workbench.activityBar.visible": false, 
-    "editor.minimap.enabled": false, 
+    "view-in-browser.customBrowser": "chrome",
+    "terminal.integrated.shell.windows": "D:\\dev\\Git\\bin\\bash.exe",
+    "workbench.activityBar.visible": true, 
+    "editor.minimap.enabled": false,
+    "jetbrainsKeymap.promptV3Features": true,
+    "editor.multiCursorModifier": "ctrlCmd",
+    "editor.formatOnPaste": false, 
+    "terminal.external.windowsExec": "D:\\dev\\Git\\bin\\bash.exe"
 }
 ```
