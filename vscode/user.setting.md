@@ -19,6 +19,7 @@
     "jetbrainsKeymap.promptV3Features": true,
     "editor.multiCursorModifier": "ctrlCmd",
     "editor.formatOnPaste": false, 
-    "terminal.external.windowsExec": "D:\\dev\\Git\\bin\\bash.exe"
+    "terminal.external.windowsExec": "D:\\dev\\Git\\bin\\bash.exe",
+    "explorer.autoReveal": false
 }
 ```
