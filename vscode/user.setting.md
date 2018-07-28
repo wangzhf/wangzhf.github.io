@@ -20,6 +20,7 @@
     "editor.multiCursorModifier": "ctrlCmd",
     "editor.formatOnPaste": false, 
     "terminal.external.windowsExec": "D:\\dev\\Git\\bin\\bash.exe",
-    "explorer.autoReveal": false
+    "explorer.autoReveal": false,
+    "workbench.editor.enablePreview": false
 }
 ```
