@@ -21,6 +21,7 @@
     "editor.formatOnPaste": false, 
     "terminal.external.windowsExec": "D:\\dev\\Git\\bin\\bash.exe",
     "explorer.autoReveal": false,
-    "workbench.editor.enablePreview": false
+    "workbench.editor.enablePreview": false,
+    "vetur.format.defaultFormatter.html": "js-beautify-html"
 }
 ```
