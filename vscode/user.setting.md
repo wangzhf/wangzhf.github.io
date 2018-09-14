@@ -22,6 +22,9 @@
     "terminal.external.windowsExec": "D:\\dev\\Git\\bin\\bash.exe",
     "explorer.autoReveal": false,
     "workbench.editor.enablePreview": false,
-    "vetur.format.defaultFormatter.html": "js-beautify-html"
+    "vetur.format.defaultFormatter.html": "js-beautify-html",
+    "go.inferGopath": true,
+    "go.gopath": "${workspaceFolder}", 
+    "go.autocompleteUnimportedPackages": true,
 }
 ```
